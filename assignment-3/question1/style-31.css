@@ -1,0 +1,11 @@
+#box{
+    height:40vw;
+    width:40vw;
+    background-color:red;
+    transition-property:background-color;
+    transition-duration:1s;
+}
+
+#box:hover{
+    background-color:salmon;
+}
