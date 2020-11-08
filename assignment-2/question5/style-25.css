@@ -1,0 +1,30 @@
+body{
+    margin:0;
+}
+#navbar{
+    background-color:gray;
+    position:fixed;
+    height:40px;
+    width:100vw;
+}
+
+h1{
+    margin:0;
+    margin-left:10px;
+    color:white;
+}
+
+#section-1{
+    height:100vh;
+    background-color:red;
+}
+
+#section-2{
+    height:100vh;
+    background-color:salmon;
+}
+
+#section-3{
+    height:100vh;
+    background-color:pink;
+}
