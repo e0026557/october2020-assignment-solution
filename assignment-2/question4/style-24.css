@@ -1,0 +1,23 @@
+#box-1{
+    height:25vw;
+    width:25vw;
+    background-color:red;
+}
+
+#box-2{
+    height:25vw;
+    width:25vw;
+    background-color:salmon;
+    position:relative;
+    top:-25vw;
+    left:25vw;
+}
+
+#box-3{
+    height:25vw;
+    width:25vw;
+    background-color:pink;
+    position:relative;
+    top:-50vw;
+    left:50vw;
+}
