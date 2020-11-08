@@ -1,0 +1,33 @@
+body{
+    margin:0;
+}
+
+#ball{
+    height:200px;
+    width:200px;
+    border-radius:100px;
+    background-color:salmon;
+    position:absolute;
+    right:0vw;
+    animation-name:move-ball;
+    animation-duration:5s;
+    animation-fill-mode:forwards;
+}
+
+@keyframes move-ball{
+    0%{
+        right:0vw;
+    }
+    25%{
+        right:68vw;
+        top:0vh;
+    }
+    50%{
+        right:68vw;
+        top:68vh;
+    }
+    100%{
+        right:0vw;
+        top:0vw;
+    }
+}
