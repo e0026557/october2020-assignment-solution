@@ -1,4 +1,12 @@
 # HTML/CSS Assignment Solutions
+## Contents
+- [Instructions](#instructions)
+    * [Cloning the repository](#cloning-the-repository)
+    * [Alternative](#alternative)
+    * [Submitting Issues or Requests](#submitting-issues-or-requests)
+- [Assignemnt Questions](#assignment-questions)
+- [Acknowledgements](#acknowledgements)
+
 ## Instructions
 ### Cloning the repository
 Before you clone, click on the `fork` button found on the top-right of the GitHub repository. This would fork the existing repository into your own repository. **You do not need to create a repository beforehand**. Forking the repository would automatically create a new repository for you.
@@ -30,8 +38,14 @@ You can find the repository name by clicking on `code` and ensure that `HTTPS` i
 ### Alternative 
 If you do not wish to clone, you could navigate into the file in GitHub that you wish to look at and click on the `raw` button found at the top-right of the window. This would make it easier for you to copy the codes. 
 
-## Submitting Issues or Requests
+### Submitting Issues or Requests
 If you are comfortable, you may submit [`pull requests`](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to this repository **after forking the repository** to make changes or add any alternative solutions to the question. 
+
+## Assignment Questions
+You can find the assignment questions in the following repository:
+ - [Assignment 1](https://github.com/muhdarifrawi/2020-HTML-reinforcement-revision-1)
+ - [Assignment 2](https://github.com/muhdarifrawi/2020-HTML-reinforcement-revision-2)
+ - [Assignment 3](https://github.com/muhdarifrawi/2020-HTML-reinforcement-revision-3)
 
 ## Acknowledgements
 The background image used was from [Ylanite Koppens](https://www.pexels.com/photo/green-snake-plant-on-white-ceramic-pot-1445416/) in [Pexels](https://www.pexels.com/).
