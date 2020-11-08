@@ -1,0 +1,16 @@
+a:link{
+    color:salmon;
+    font-size:32pt;
+}
+
+a:visited {
+    color: purple;
+}
+  
+a:hover {
+color: hotpink;
+}
+  
+a:active {
+color: red;
+}
